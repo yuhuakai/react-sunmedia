@@ -1,0 +1,99 @@
+.addhuodong .title {
+  text-align: center;
+  color: rgb(80, 80, 80);
+  margin-bottom: 20px;
+}
+.addhuodong .content {
+  width: 50%;
+  margin: 0 auto;
+}
+.addhuodong .content div {
+  margin-bottom: 20px;
+}
+.addhuodong .content div label {
+  margin-right: 10px;
+}
+.addhuodong .content div button {
+  width: 100px;
+}
+.addhuodong .content div a button {
+  margin-left: 30px;
+}
+.jump {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.bianjihuodong .title {
+  text-align: center;
+  color: rgb(80, 80, 80);
+  margin-bottom: 20px;
+}
+.bianjihuodong .content {
+  width: 35%;
+  margin: 0 auto;
+}
+.bianjihuodong .content div {
+  margin-bottom: 20px;
+}
+.bianjihuodong .content div label {
+  margin-right: 10px;
+}
+.bianjihuodong .content div button {
+  width: 100px;
+}
+.bianjihuodong .content div a button {
+  margin-left: 30px;
+}
+.huodongye .huo {
+  text-decoration: underline;
+}
+.huodongye .toubu span {
+  color: rgb(71, 71, 71);
+  font-size: 20px;
+  margin-left: 20px;
+}
+.huodongye .op {
+  margin: 15px 0;
+}
+.small .title {
+  width: 300px;
+  float: left;
+  text-align: center;
+  font-size: 18px;
+  color: rgb(82, 81, 81);
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.small .right {
+  float: right;
+
+  color: rgb(82, 81, 81);
+  margin-bottom: 20px;
+  margin-top: 40px;
+}
+.one,
+.two,
+.three,
+.four,
+.five,
+.six,
+.seven,
+.eight,
+.nine {
+  float: left;
+  text-align: center;
+  margin-right: 30px;
+}
+.one .down,
+.two .down,
+.three .down,
+.four .down,
+.five .down,
+.six .down,
+.seven .down,
+.eight .down,
+.nine .down {
+  color: rgb(75, 74, 74);
+  text-decoration: underline;
+  margin-top: 10px;
+}

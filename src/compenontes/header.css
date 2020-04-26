@@ -1,0 +1,142 @@
+.header {
+  width: 90%;
+  margin: 0 auto;
+  background: linear-gradient(#fff, pink);
+  background-size: contain;
+  background-repeat: no-repeat;
+  padding-left: 10px;
+}
+.toubu a img {
+  width: 200px;
+}
+.nav {
+  margin-left: 100px;
+  color: rgb(68, 67, 67);
+}
+.nav div {
+  float: left;
+  margin-left: 20px;
+}
+.nav a {
+  float: left;
+  margin-left: 20px;
+  color: rgb(68, 67, 67);
+}
+.toubu {
+  display: flex;
+  align-items: center;
+}
+.shouye {
+  margin-top: 10px;
+  width: 100%;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  color: rgb(85, 84, 84);
+}
+.shouye a {
+  text-decoration: none;
+}
+.shouye a span {
+  width: 40px;
+  padding: 0 10px;
+  border-right: 1px solid #ccc;
+  color: rgb(85, 84, 84);
+  font-size: 15px;
+}
+.downnav {
+  padding-left: 60%;
+  margin-top: 20px;
+  color: rgb(85, 84, 84);
+}
+.downnav span {
+  margin-left: 18px;
+}
+.home,
+.shezhir {
+  width: 80%;
+  margin: 0 auto;
+  background-color: #fff;
+}
+.home .one,
+.home .two,
+.home .four {
+  width: 100%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  padding: 10px 15px;
+  border: 1px solid black;
+  text-align: left;
+}
+
+.home .three {
+  width: 100%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 15px;
+  border: 1px solid black;
+  text-align: left;
+}
+.home .three .left,
+.home .three .right {
+  padding-left: 6%;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+.home .one h4,
+.home .two h4,
+.home .four h4 {
+  margin-bottom: 10px;
+  color: blue;
+}
+.home .left,
+.home .right {
+  width: 40%;
+}
+.home .right {
+  margin-left: 30px;
+}
+.home .three {
+  width: 100%;
+  margin-top: 20px;
+}
+.home .left div,
+.home .right div {
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+.home .left h5,
+.home .right h5 {
+  margin-bottom: 10px;
+}
+.shezhi {
+  width: 71%;
+  margin: 0 auto;
+  background-color: #fff;
+}
+.shezhi-in {
+  padding-top: 15px;
+  width: 400px;
+  margin: 0 auto;
+  height: 100vh;
+}
+.shezhi-in input {
+  float: right;
+  margin-right: 130px;
+}
+.shezhi-in label {
+  float: left;
+}
+
+.shezhi-in > div {
+  margin-top: 10px;
+}
+.z8 {
+  width: 100%;
+  margin-top: 10px;
+}
+.z8 button {
+  width: 100px;
+  margin-left: 60px;
+}
